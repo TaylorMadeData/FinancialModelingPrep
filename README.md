@@ -31,9 +31,6 @@ This is a dashboard that displays data from [**Financial Modeling Prep**](https:
 ## Key Executives
 <img src ="https://github.com/TaylorMadeData/FinancialModelingPrep/blob/main/Images/Insiders.jpg">
 
-## News
-<img src ="https://github.com/TaylorMadeData/FinancialModelingPrep/blob/main/Images/News.jpg">
-
 ## SEC
 <img src ="https://github.com/TaylorMadeData/FinancialModelingPrep/blob/main/Images/sec.jpg">
 
