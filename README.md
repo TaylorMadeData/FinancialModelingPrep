@@ -4,10 +4,9 @@ Power BI Dashboard displaying data provided by Financial Modeling Prep
 ## Description & Source
 This is a dashboard that displays data from [**Financial Modeling Prep**](https://site.financialmodelingprep.com/developer/docs/)
 
-##Link to Dashboard
+## Link to Dashboard
 - [**Financial Sector Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNjQ0NGNiNWItZTVlNi00MjYxLThhZTQtNzVkMmI0NGM0OTRiIiwidCI6IjRkNDJmNmE4LTcyOTctNGRhYS1iZjhiLTVhOGU5ZmJjOTE1MCJ9)
 - [**Tech and Consumer Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZTY0OWY2ODAtY2FkYy00OTk0LTlmMWEtNWZlNWFkYTQ5NGMxIiwidCI6IjRkNDJmNmE4LTcyOTctNGRhYS1iZjhiLTVhOGU5ZmJjOTE1MCJ9)
-- File too large to upload, reach for file
 
 ## Notes
 - Data was last updated in September of 2021
